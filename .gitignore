@@ -1,0 +1,31 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+api.env
+gcp.env
+credentials*.json
+service-account*.json
+service_account*.json
+token.json
+*.pem
+*.key
+
+# Python runtime files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Copyrighted source material, local graph data, and generated artifacts
+BOOK/
+data/
+input/
+outputs/
+generated/
+logs/
+_patch_backup/
+*.pdf
+*.sqlite
+*.sqlite3
+*.db
