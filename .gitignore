@@ -4,6 +4,7 @@
 !.env.example
 api.env
 gcp.env
+security_key
 credentials*.json
 service-account*.json
 service_account*.json
@@ -24,6 +25,10 @@ input/
 outputs/
 generated/
 logs/
+cache/
+.cache/
+chromadb/
+neo4j/
 _patch_backup/
 *.pdf
 *.sqlite

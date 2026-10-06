@@ -1,0 +1,9 @@
+{
+  "question": "What does a push operation do on a stack?",
+  "expected_response_shape": {
+    "seed_concepts": ["Push Operation"],
+    "prerequisite_concepts": ["Stack"],
+    "chunks": ["demo_chunk_001"]
+  },
+  "notice": "This is synthetic response-shape documentation, not a recorded retrieval result."
+}

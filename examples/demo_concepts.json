@@ -1,0 +1,15 @@
+{
+  "concepts": [
+    {
+      "conceptId": "DEMO_STACK",
+      "name": "Stack",
+      "definition": "A last-in, first-out collection used only as a synthetic documentation example.",
+      "aliases": ["LIFO stack"]
+    },
+    {
+      "conceptId": "DEMO_PUSH",
+      "name": "Push Operation",
+      "definition": "An operation that adds an item to the top of a stack."
+    }
+  ]
+}

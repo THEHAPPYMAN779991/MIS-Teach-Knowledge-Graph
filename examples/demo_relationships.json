@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source": "DEMO_STACK",
+      "relation": "PREREQUISITE_OF",
+      "target": "DEMO_PUSH",
+      "evidence": "Synthetic relationship for documentation only."
+    },
+    {
+      "source": "DEMO_PUSH",
+      "relation": "MENTIONED_IN",
+      "target": "demo_chunk_001"
+    }
+  ]
+}

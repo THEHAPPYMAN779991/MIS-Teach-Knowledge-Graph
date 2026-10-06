@@ -1,0 +1,11 @@
+{
+  "chunks": [
+    {
+      "chunkId": "demo_chunk_001",
+      "section": "demo.1",
+      "pageStart": 1,
+      "pageEnd": 1,
+      "text": "A stack follows last-in, first-out order. The push operation adds an item to the top."
+    }
+  ]
+}
